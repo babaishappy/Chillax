@@ -40,7 +40,7 @@
 /*Chillax Roots*/
 :root{
 /*background image*/ /*(replace the link to use)*/
-  --background-image:var(--wallpaper);https://images-ext-1.discordapp.net/external/j8mdReP5aHRn0mpZ9EqIluwZL5mDHFcgfL1oO8bMt1M/https/tr.rbxcdn.com/2beb26b3c05283f3f39f79215c2c9a21/500/280/Image/Jpeg
+  --background-image:var(--wallpaper);
 /*bg dev suggestions*/
   --wallpaper: url('https://images-ext-1.discordapp.net/external/j8mdReP5aHRn0mpZ9EqIluwZL5mDHFcgfL1oO8bMt1M/https/tr.rbxcdn.com/2beb26b3c05283f3f39f79215c2c9a21/500/280/Image/Jpeg');
 /*modern background selection*/
